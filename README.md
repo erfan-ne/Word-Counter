@@ -1,5 +1,3 @@
-live demo: https://erfan-ne.github.io/Word-Counter/
-
 # 📝 Persian Word Counter
 
 A simple and elegant word counter app with full **Farsi (Persian)** support and **Right-To-Left (RTL)** layout. Perfect for writing analysis, blogs, or content editing.
